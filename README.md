@@ -25,20 +25,20 @@
 [![f=Wix](https://img.shields.io/badge/wix-FF69B4?style=for-the-badge&logo=wix)](https://github.com/fatima2003)
 
 <details>
+  <summary>Some of my works</summary>
 <p align="center">
 
-#### Some of my hosted works
-###### Kreckle Foods, a confectionery wholesaler
+#### Kreckle Foods, a confectionery wholesaler
 <a href=https://www.krecklefoods.com>
   Kreckle Foods
 </a>
 
-###### Waqt, dispalys salaah times for mosques in Harare
+#### Waqt, dispalys salaah times for mosques in Harare
 <a href=https://masjid2024-79d97.web.app>
   Waqt
 </a>
 
-###### Waqt Logo, designed in Figma
+#### Waqt Logo, designed in Figma
 https://www.figma.com/proto/jS63p8uYMBpUvObFxJu05b/Logo-Design?node-id=305-45&t=I9uQunrXf5tUoQyF-1
 
 </details>
