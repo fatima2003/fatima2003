@@ -19,3 +19,11 @@
 [![f=Cloudfunctions](https://img.shields.io/badge/Cloudfunctions-FF69B4?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
 [![f=Apphosting](https://img.shields.io/badge/Apphosting-FFA9D4?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
 [![f=Messaging](https://img.shields.io/badge/Messaging-FF69B4?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
+
+### UX/UI
+[![f=Figma](https://img.shields.io/badge/figma-FFA9D4?style=for-the-badge&logo=figma)](https://github.com/fatima2003)
+
+#### Some of my hosted works
+##### Designed and created using WIX
+<a href=https://www.krecklefoods.com>
+
