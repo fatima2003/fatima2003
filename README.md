@@ -38,4 +38,7 @@
   Waqt
 </a>
 
+###### Waqt Logo, designed in Figma
+https://www.figma.com/proto/jS63p8uYMBpUvObFxJu05b/Logo-Design?node-id=305-45&t=I9uQunrXf5tUoQyF-1
+
 </details>
