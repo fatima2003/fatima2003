@@ -7,4 +7,4 @@
 
 ### Cloud
 [![f=Firebase](https://img.shields.io/badge/firebase-FF80BF?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
-[![f=Cloud](https://img.shields.io/badge/cloudFunctions-FF80BF?style=for-the-badge&logo=cloud)](https://github.com/fatima2003)
+[![f=Cloud](https://img.shields.io/badge/googlecloud-FF80BF?style=for-the-badge&logo=googlecloud)](https://github.com/fatima2003)
