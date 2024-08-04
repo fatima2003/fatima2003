@@ -6,7 +6,7 @@
 
 ### Languages
 [![f=Dart](https://img.shields.io/badge/dart-FF80BF?style=for-the-badge&logo=dart)](https://github.com/fatima2003)
-[![f=Tailwind](https://img.shields.io/badge/tailwind-FF69B4?style=for-the-badge&logo=tailwind)](https://github.com/fatima2003)
+[![f=Tailwind](https://img.shields.io/badge/tailwindcss-FF69B4?style=for-the-badge&logo=tailwindcss)](https://github.com/fatima2003)
 
 
 ### Firebase
