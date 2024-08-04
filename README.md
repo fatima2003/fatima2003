@@ -4,6 +4,10 @@
 [![f=Flutter](https://img.shields.io/badge/flutter-FF80BF?style=for-the-badge&logo=flutter)](https://github.com/fatima2003)
 [![f=React](https://img.shields.io/badge/react-FF69B4?style=for-the-badge&logo=react)](https://github.com/fatima2003)
 
+### Languages
+[![f=Dart](https://img.shields.io/badge/dart-FF80BF?style=for-the-badge&logo=dart)](https://github.com/fatima2003)
+[![f=Tailwind](https://img.shields.io/badge/tailwind-FF69B4?style=for-the-badge&logo=tailwind)](https://github.com/fatima2003)
+
 
 ### Firebase
 [![f=Authentication](https://img.shields.io/badge/authentication-FF80BF?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
