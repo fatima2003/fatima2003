@@ -38,7 +38,7 @@
   Kreckle Foods
 </a>
 
-#### Waqt, dispalys salaah times for mosques in Harare
+#### Waqt, displays salaah times for mosques in Harare
 <a href=https://masjid2024-79d97.web.app>
   Waqt
 </a>
