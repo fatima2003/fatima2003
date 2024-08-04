@@ -1,3 +1,3 @@
 ## Hello World 🌍
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatima2003)](https://github.com/fatima2003/github-readme-stats)
