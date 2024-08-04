@@ -11,9 +11,14 @@
 [![f=Javascript](https://img.shields.io/badge/javascript-FFA9D4?style=for-the-badge&logo=javascript)](https://github.com/fatima2003)
 
 ### App Developement
-[![f=Web](https://img.shields.io/badge/chrome-FFA9D4?style=for-the-badge&logo=chromewebstore)](https://github.com/fatima2003)
-[![f=iOS](https://img.shields.io/badge/ios-FF69B4?style=for-the-badge&logo=ios)](https://github.com/fatima2003)
+[![f=iOS](https://img.shields.io/badge/ios-FFA9D4?style=for-the-badge&logo=ios)](https://github.com/fatima2003)
+
+#### Web
+[![f=Web](https://img.shields.io/badge/chrome-FF69B4?style=for-the-badge&logo=chromewebstore)](https://github.com/fatima2003)
 [![f=Web](https://img.shields.io/badge/safari-FFA9D4?style=for-the-badge&logo=safari)](https://github.com/fatima2003)
+[![f=firefoxbrowser](https://img.shields.io/badge/firefoxbrowser-FFA9D4?style=for-the-badge&logo=firefoxbrowser)](https://github.com/fatima2003)
+
+
 
 
 
