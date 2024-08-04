@@ -8,7 +8,7 @@
 [![f=Dart](https://img.shields.io/badge/dart-FF80BF?style=for-the-badge&logo=dart)](https://github.com/fatima2003)
 [![f=Tailwind](https://img.shields.io/badge/tailwindcss-FF69B4?style=for-the-badge&logo=tailwindcss)](https://github.com/fatima2003)
 [![f=Javascript](https://img.shields.io/badge/javascript-FF80BF?style=for-the-badge&logo=javascript)](https://github.com/fatima2003)
-[![f=Python](https://img.shields.io/badge/phython-FF69B4?style=for-the-badge&logo=phython)](https://github.com/fatima2003)
+[![f=Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python)](https://github.com/fatima2003)
 
 ### Firebase
 [![f=Authentication](https://img.shields.io/badge/authentication-FF80BF?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
