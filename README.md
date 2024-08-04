@@ -12,11 +12,7 @@
 
 ### App Developement
 [![f=iOS](https://img.shields.io/badge/ios-FFA9D4?style=for-the-badge&logo=ios)](https://github.com/fatima2003)
-[![f=Web](https://img.shields.io/badge/chrome-FF69B4?style=for-the-badge&logo=internetcomputer)](https://github.com/fatima2003)
-
-[![f=Web](https://img.shields.io/badge/chrome-FF69B4?style=for-the-badge&logo=chromewebstore)](https://github.com/fatima2003)
-[![f=Web](https://img.shields.io/badge/safari-FFA9D4?style=for-the-badge&logo=safari)](https://github.com/fatima2003)
-[![f=firefoxbrowser](https://img.shields.io/badge/firefox-FFA9D4?style=for-the-badge&logo=firefoxbrowser)](https://github.com/fatima2003)
+[![f=Web](https://img.shields.io/badge/web-FF69B4?style=for-the-badge&logo=internetcomputer)](https://github.com/fatima2003)
 
 ### Firebase
 [![f=Authentication](https://img.shields.io/badge/authentication-FFA9D4?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
