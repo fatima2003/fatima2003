@@ -5,6 +5,9 @@
 [![f=React](https://img.shields.io/badge/react-FF69B4?style=for-the-badge&logo=react)](https://github.com/fatima2003)
 
 
-### Cloud
+### Firebase
+[![f=Authentication](https://img.shields.io/badge/authentication-FF80BF?style=for-the-badge&logo=authentication)](https://github.com/fatima2003)
+[![f=Firebase](https://img.shields.io/badge/firebase-FF80BF?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
+[![f=Firebase](https://img.shields.io/badge/firebase-FF80BF?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
 [![f=Firebase](https://img.shields.io/badge/firebase-FF80BF?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
 [![f=Cloud](https://img.shields.io/badge/cloudFunctions-FF69B4?style=for-the-badge&logo=googlecloud)](https://github.com/fatima2003)
