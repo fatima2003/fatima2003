@@ -22,11 +22,20 @@
 
 ### UX/UI
 [![f=Figma](https://img.shields.io/badge/figma-FFA9D4?style=for-the-badge&logo=figma)](https://github.com/fatima2003)
+[![f=Wix](https://img.shields.io/badge/wix-FF69B4?style=for-the-badge&logo=wix)](https://github.com/fatima2003)
+
+<details>
+<p align="center">
 
 #### Some of my hosted works
-##### Designed and created using WIX
+###### Kreckle Foods, a confectionery wholesaler
 <a href=https://www.krecklefoods.com>
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nripeshn&theme=transparent" /> -->
-  </a>
+  Kreckle Foods
+</a>
 
+###### Waqt, dispalys salaah times for mosques in Harare
+<a href=https://masjid2024-79d97.web.app>
+  Waqt
+</a>
 
+</details>
