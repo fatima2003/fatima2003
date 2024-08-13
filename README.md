@@ -1,7 +1,7 @@
 # $\textcolor{Rhodamine}{Hello\ World\ 🌍}$
 
-### ${\color{lightblue}I \space \color{red}am \space \color{RubineRed}Fatima \color{SpringGreen}, \space \color{WildStrawberry}W \color{SeaGreen}E \color{YellowGreen}L \color{WildStrawberry}C \color{SeaGreen}O \color{YellowGreen}M \color{WildStrawberry}E \space \color{Thistle}to \space \color{BurntOrange}my \space \color{WildStrawberry}W \color{SeaGreen}O \color{YellowGreen}R \color{WildStrawberry}L \color{SeaGreen}D}$
-
+> $${\color{lightblue}I \space \color{red}am \space \color{RubineRed}Fatima \color{SpringGreen}, \space \color{WildStrawberry}W \color{SeaGreen}E \color{YellowGreen}L \color{WildStrawberry}C \color{SeaGreen}O \color{YellowGreen}M \color{WildStrawberry}E \space \color{Thistle}to \space \color{BurntOrange}my \space \color{WildStrawberry}W \color{SeaGreen}O \color{YellowGreen}R \color{WildStrawberry}L \color{SeaGreen}D}$$
+> 
 > $${ \color{Lavender} ･:*ೃ࿔.⋆❀° \space \color{Periwinkle} I \space have \space only \space recently \space started \space using \space Github \space consistently,}$$
 >
 > $${ \color{Periwinkle} I \space love \space to \space program \space lil \space things \space in \space my \space spare \space time \space and \space will \space be \space updating \space this \space page \space with \space my \space creations \space \color{Lavender}°❀⋆.ೃ࿔*:･ }$$
