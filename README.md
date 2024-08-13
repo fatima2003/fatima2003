@@ -1,4 +1,9 @@
-## Hello World 🌍
+# $\textcolor{Rhodamine}{Hello\ World\ 🌍}$
+
+${\color{lightblue}I \space \color{red}am \space \color{RubineRed}Fatima \color{SpringGreen}, \space \color{WildStrawberry}W \color{SeaGreen}E \color{YellowGreen}L \color{WildStrawberry}C \color{SeaGreen}O \color{YellowGreen}M \color{WildStrawberry}E \space \color{Thistle}to \space \color{BurntOrange}my \space \color{WildStrawberry}W \color{SeaGreen}O \color{YellowGreen}R \color{WildStrawberry}L \color{SeaGreen}D }$
+
+> I have only recently started using Github consistently, I love to program lil things in my spare time and will be updating this page with my creations 
+> 🌷 I have graduated CompSci and my interests include Cyber Security, design and App Developement (only recently). 
 
 ###### Experience Key
 [![f=Flutter](https://img.shields.io/badge/★★★★★-FF69B4?style=for-the-badge)](https://github.com/fatima2003)
@@ -49,5 +54,4 @@ https://www.figma.com/proto/jS63p8uYMBpUvObFxJu05b/Logo-Design?node-id=305-45&t=
 </details>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fatima2003&exclude_days=Tue&fire=EB7BD5&background=45%2CDCFCFF%2CFFE1FC&stroke=EEA2DE&currStreakLabel=C668B4&excludeDaysLabel=EB8B8B&currStreakNum=68A3D3&sideNums=EB5196&sideLabels=68A3D3&dates=8089EB)](https://git.io/streak-stats)
-
 
