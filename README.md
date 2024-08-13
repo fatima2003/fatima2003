@@ -48,6 +48,6 @@ https://www.figma.com/proto/jS63p8uYMBpUvObFxJu05b/Logo-Design?node-id=305-45&t=
 
 </details>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fatima2003&exclude_days=Tue&fire=EB7BD5&background=45%2CD0E2EB%2CFFD7F8&stroke=EEA2DE&currStreakLabel=C668B4&excludeDaysLabel=EB8B8B&currStreakNum=68A3D3&sideNums=EB5196&sideLabels=68A3D3&dates=8089EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fatima2003&exclude_days=Tue&fire=EB7BD5&background=45%DCFCFF%FFE1FC&stroke=EEA2DE&currStreakLabel=C668B4&excludeDaysLabel=EB8B8B&currStreakNum=68A3D3&sideNums=EB5196&sideLabels=68A3D3&dates=8089EB)](https://git.io/streak-stats)
 
 
