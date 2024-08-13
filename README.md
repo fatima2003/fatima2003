@@ -1,6 +1,6 @@
 # ```  Hello World  ```
 
-> $${\color{lightblue}I \space \color{red}am \space \color{RubineRed}F \color{WildStrawberry}a \color{RubineRed}t \color{WildStrawberry}i \color{RubineRed}m \color{WildStrawberry}a \space,\color{WildStrawberry}W \color{SeaGreen}E \color{YellowGreen}L \color{WildStrawberry}C \color{SeaGreen}O \color{YellowGreen}M \color{WildStrawberry}E \space \color{Thistle}to \space \color{BurntOrange}my \space \color{WildStrawberry}W \color{SeaGreen}O \color{YellowGreen}R \color{WildStrawberry}L \color{SeaGreen}D}$$
+> $${\color{lightblue}I \space \color{red}am \space \color{BurntOrange}F \color{WildStrawberry}a \color{Periwinkle}t \color{WildStrawberry}i \color{Yellowgreen}m \color{WildStrawberry}a \space,\color{WildStrawberry}W \color{SeaGreen}E \color{YellowGreen}L \color{WildStrawberry}C \color{SeaGreen}O \color{YellowGreen}M \color{WildStrawberry}E \space \color{Thistle}to \space \color{BurntOrange}my \space \color{WildStrawberry}W \color{SeaGreen}O \color{YellowGreen}R \color{WildStrawberry}L \color{SeaGreen}D}$$
 > 
 > $${ \color{Lavender} ･:*ೃ࿔.⋆❀° \space \color{Periwinkle} I \space have \space only \space recently \space started \space using \space Github \space consistently,}$$
 >
