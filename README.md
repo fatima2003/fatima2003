@@ -40,33 +40,36 @@ I am Fatima and Welcome to my World :)
 [![f=Wix](https://img.shields.io/badge/wix-FFA9D4?style=for-the-badge&logo=wix)](https://github.com/fatima2003)
 
 <details>
-  <summary>Some of my works</summary>
-<p align="center">
+  <summary>🌟 Some of My Works</summary>
+  <p align="center">
+    
+  ______________________________
 
-#### Draggable, a simple CSS animation tool that allows users to create animations by dragging cursor on screen
-<a href=https://draggablecss.vercel.app>
-  Draggable
-</a>
+  #### 🕌 Waqt: Prayer times for mosques in Harare
+  *Displays salaah times for mosques in Harare.*
+  [View Project](https://masjid2024-79d97.web.app)
+  ______________________________
 
-#### Kreckle Foods, a confectionery wholesaler
-<a href=https://www.krecklefoods.com>
-  Kreckle Foods
-</a>
-
-#### Waqt, displays salaah times for mosques in Harare
-<a href=https://masjid2024-79d97.web.app>
-  Waqt
-</a>
-
-#### Waqt Logo, designed in Figma
-https://www.figma.com/proto/jS63p8uYMBpUvObFxJu05b/Logo-Design?node-id=305-45&t=I9uQunrXf5tUoQyF-1
-
-#### My portfolio, created using Next.js
-<a href=https://fatties-portfolio-84923n9j0-fatima2003s-projects.vercel.app>
-  My Portfolio
-</a>
-
+  #### 🍬 Kreckle Foods: A confectionery wholesaler
+  *E-commerce platform for a confectionery wholesaler.*
+  [Visit Website](https://www.krecklefoods.com)
+  ______________________________
+  #### 🎨 Draggable: A simple CSS animation tool
+  *Create animations by dragging the cursor on the screen.*
+  [View Project](https://draggablecss.vercel.app)
+  ______________________________
+  #### 🎨 Waqt Logo: Designed in Figma
+  *A logo design created using Figma.*
+  [View on Figma](https://www.figma.com/proto/jS63p8uYMBpUvObFxJu05b/Logo-Design?node-id=305-45&t=I9uQunrXf5tUoQyF-1)
+  ______________________________
+  #### 💼 My Portfolio: Created using Next.js
+  *My personal portfolio showcasing my work and skills.*
+  [View Portfolio](https://fatties-portfolio-84923n9j0-fatima2003s-projects.vercel.app)
+  ______________________________
+  </p>
 </details>
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fatima2003&exclude_days=Tue&fire=EB7BD5&background=45%2CDCFCFF%2CFFE1FC&stroke=EEA2DE&currStreakLabel=C668B4&excludeDaysLabel=EB8B8B&currStreakNum=68A3D3&sideNums=EB5196&sideLabels=68A3D3&dates=8089EB)](https://git.io/streak-stats)
 
