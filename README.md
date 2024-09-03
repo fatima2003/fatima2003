@@ -47,7 +47,8 @@ I am Fatima and Welcome to my World :)
 
   #### 🕌 Waqt: Prayer times for mosques in Harare
   *Displays salaah times for mosques in Harare.*
-  [View Project](https://masjid2024-79d97.web.app)
+  [View as Web App](https://masjid2024-79d97.web.app)   
+  [View on App Store (for iOS)](https://apps.apple.com/ae/app/salaah-waqt/id6639612429)
   ______________________________
 
   #### 🍬 Kreckle Foods: A confectionery wholesaler
