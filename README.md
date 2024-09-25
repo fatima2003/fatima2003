@@ -2,6 +2,15 @@
 
 I am Fatima and Welcome to my World :) 
 
+> $${ \color{Lavender} ･:*ೃ࿔.⋆❀° \space \color{Periwinkle} I \space have \space only \space recently \space started \space using \space Github \space consistently,}$$
+>
+> $${ \color{Periwinkle} I \space love \space to \space program \space lil \space things \space in \space my \space spare \space time \space and \space will \space be \space updating \space this \space page \space with \space my \space creations \space \color{Lavender}°❀⋆.ೃ࿔*:･ }$$
+> 
+> $${ \color{lightblue}  ༘˚⋆𐙚｡ \space \color{Rhodamine} I \space \space have \space graduated \space CompSci \space and \space my \space interests \space include \space Cyber \space Security \space (this \space is \space my \space muse),}$$
+> 
+> $${ \color{Rhodamine} App \space Developement \space (using \space Flutter) \space and \space design \space (I \space love \space clean \space and \space contrarily \space colorful \space and \space maximalist \space works). \color{lightblue}ᝰ.ᐟ }$$
+
+
 ###### Experience Key
 [![f=Flutter](https://img.shields.io/badge/★★★★★-FF69B4?style=for-the-badge)](https://github.com/fatima2003)
 [![f=React](https://img.shields.io/badge/★★★☆☆-FFA9D4?style=for-the-badge)](https://github.com/fatima2003)
