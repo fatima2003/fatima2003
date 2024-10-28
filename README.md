@@ -14,16 +14,15 @@ I am Fatima and Welcome to my World :)
 [![f=Flutter](https://img.shields.io/badge/★★★★★-FF69B4?style=for-the-badge)](https://github.com/fatima2003)
 [![f=React](https://img.shields.io/badge/★★★☆☆-FFA9D4?style=for-the-badge)](https://github.com/fatima2003)
 
+### Languages
+[![f=Dart](https://img.shields.io/badge/dart-FF69B4?style=for-the-badge&logo=dart)](https://github.com/fatima2003)
+[![f=Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python)](https://github.com/fatima2003)
+[![f=Go](https://img.shields.io/badge/go-FFA9D4?style=for-the-badge&logo=go)](https://github.com/fatima2003)
 
 ### Frameworks
 [![f=Flutter](https://img.shields.io/badge/flutter-FF69B4?style=for-the-badge&logo=flutter)](https://github.com/fatima2003)
 [![f=React](https://img.shields.io/badge/react-FFA9D4?style=for-the-badge&logo=react)](https://github.com/fatima2003)
 [![f=Tailwind](https://img.shields.io/badge/tailwindcss-FFA9D4?style=for-the-badge&logo=tailwindcss)](https://github.com/fatima2003)
-
-### Languages
-[![f=Dart](https://img.shields.io/badge/dart-FF69B4?style=for-the-badge&logo=dart)](https://github.com/fatima2003)
-[![f=Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python)](https://github.com/fatima2003)
-[![f=Javascript](https://img.shields.io/badge/javascript-FFA9D4?style=for-the-badge&logo=javascript)](https://github.com/fatima2003)
 
 ### App Developement
 [![f=iOS](https://img.shields.io/badge/ios-FF69B4?style=for-the-badge&logo=ios)](https://github.com/fatima2003)
@@ -42,7 +41,12 @@ I am Fatima and Welcome to my World :)
 <details>
   <summary>🌟 Some of My Works</summary>
   <p align="center">
-    
+
+   ______________________________
+
+  #### 👩🏽‍💻 Currently a contributor and mentee under OpenBao :)
+  *OpenBao is an open-source project focused on developing secure, scalable solutions. I'm currently working on enhancing PKI (Public Key Infrastructure) endpoint.*
+   [My Contributions](https://github.com/openbao/openbao/issues?q=author%3Afatima2003+)
   ______________________________
 
   #### 🕌 Waqt: Prayer times for mosques in Harare
