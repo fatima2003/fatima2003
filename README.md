@@ -76,5 +76,8 @@ I am Fatima and Welcome to my World :)
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fatima2003&exclude_days=Tue&fire=EB7BD5&background=45%2CDCFCFF%2CFFE1FC&stroke=EEA2DE&currStreakLabel=C668B4&excludeDaysLabel=EB8B8B&currStreakNum=68A3D3&sideNums=EB5196&sideLabels=68A3D3&dates=8089EB)](https://git.io/streak-stats)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fatima2003&hide_border=false&ring=EB9CBC&stroke=CDEAEB&border=EBBB7D&fire=FF7E47&dates=80CAD8&background=45%2CE1F8FF%2CFFDCFF&currStreakNum=EB719E&sideNums=6465AE&currStreakLabel=F47944&sideLabels=EB719E)](https://git.io/streak-stats)
 
