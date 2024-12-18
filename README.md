@@ -3,7 +3,7 @@
 I am Fatima and Welcome to my World :) 
 
 > 
-> $${ \color{Lavender} ⋆❀° \space \color{Periwinkle} I \space love \space to \space program \space lil \space things \space in \space my \space spare \space time \space and \space will \space be \space updating \space this \space page \space with \space my \space creations \space \color{Lavender}°❀⋆ }$$
+> $${ \color{Lavender} ⋆❀° \space \color{Periwinkle} I \space love \space to \space program \space things \space in \space my \space spare \space time \space and \space will \space be \space updating \space this \space page \space with \space my \space creations \space \color{Lavender}°❀⋆ }$$
 > 
 > $${ \color{lightblue}  ༘˚⋆𐙚｡ \space \color{Rhodamine} I \space \space have \space graduated \space CompSci \space and \space my \space interests \space include \space Cyber \space Security,}$$
 > 
@@ -73,11 +73,3 @@ I am Fatima and Welcome to my World :)
   ______________________________
   </p>
 </details>
-
-
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=fatima2003&hide_border=false&ring=EB9CBC&stroke=CDEAEB&border=EBBB7D&fire=FF7E47&dates=80CAD8&background=45%2CE1F8FF%2CFFDCFF&currStreakNum=EB719E&sideNums=6465AE&currStreakLabel=F47944&sideLabels=EB719E)](https://git.io/streak-stats)
-
