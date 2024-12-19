@@ -35,7 +35,7 @@ I am Fatima and Welcome to my World :)
 [![f=Messaging](https://img.shields.io/badge/Messaging-FFA9D4?style=for-the-badge&logo=firebase)](https://github.com/fatima2003)
 
 ### UX/UI
-[![f=Figma](https://img.shields.io/badge/figma-FF69B4?style=for-the-badge&logo=figma)](https://github.com/fatima2003)
+[![f=Figma](https://img.shields.io/badge/figma-FFA9D4?style=for-the-badge&logo=figma)](https://github.com/fatima2003)
 [![f=Wix](https://img.shields.io/badge/wix-FFA9D4?style=for-the-badge&logo=wix)](https://github.com/fatima2003)
 
 <details>
