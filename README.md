@@ -45,7 +45,7 @@ I am Fatima and Welcome to my World :)
    ______________________________
 
   #### 👩🏽‍💻 Currently a contributor and mentee under OpenBao :)
-  *OpenBao is an open-source project focused on developing secure, scalable solutions. I'm currently working on enhancing the PKI (Public Key Infrastructure) endpoint.*
+  *I'm working on enhancing the PKI (Public Key Infrastructure) endpoint.*
    [My Contributions](https://github.com/openbao/openbao/issues?q=author%3Afatima2003+)
   ______________________________
 
