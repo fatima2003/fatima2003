@@ -5,7 +5,7 @@ I am Fatima and Welcome to my World :)
  
  $${ \color{Lavender} ⋆❀° \space \color{Periwinkle} I \space love \space to \space program \space things \space in \space my \space spare \space time \space and \space will \space be \space updating \space this \space page \space with \space my \space creations \space \color{Lavender}°❀⋆ }$$
  
- $${ \color{lightblue}  ༘˚⋆𐙚｡ \space \color{Rhodamine} I \space \space have \space graduated \space CompSci \space and \space my \space interests \space include \space Cyber \space Security,}$$
+ $${ \color{lightblue}  ༘˚⋆𐙚｡ \space \color{Rhodamine} I \space \space have \space graduated \space CompSci \space(Cyber \space Security) \space with \space a \space distinction \space and \space my \space interests \space include \space Security \space ofc,}$$
  
  $${ \color{Rhodamine} App \space Developement \space (using \space Flutter) \space and \space design \space (I \space love \space clean \space and \space contrarily \space colorful \space and \space maximalist \space works). \color{lightblue}ᝰ.ᐟ }$$
 
