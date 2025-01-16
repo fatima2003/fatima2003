@@ -5,19 +5,20 @@ I am Fatima and Welcome to my World :)
  
  $${ \color{Lavender} ⋆❀° \space \color{Periwinkle} I \space love \space to \space program \space things \space in \space my \space spare \space time \space and \space will \space be \space updating \space this \space page \space with \space my \space creations \space \color{Lavender}°❀⋆ }$$
  
- $${ \color{lightblue}  ༘˚⋆𐙚｡ \space \color{Rhodamine} I \space \space have \space graduated \space CompSci \space(Cyber \space Security) \space with \space a \space distinction \space and \space my \space interests \space include \space Security \space ofc,}$$
+ $${ \color{lightblue}  ༘˚⋆𐙚｡ \space \color{Rhodamine} I \space \space have \space graduated \space CompSci \space(Cyber \space Security) \space with \space a \space Distinction \space and \space my \space interests \space include \space Security \space ofc,}$$
  
  $${ \color{Rhodamine} App \space Developement \space (using \space Flutter) \space and \space design \space (I \space love \space clean \space and \space contrarily \space colorful \space and \space maximalist \space works). \color{lightblue}ᝰ.ᐟ }$$
 
 
 ###### Experience Key
 [![f=Flutter](https://img.shields.io/badge/★★★★★-FF69B4?style=for-the-badge)](https://github.com/fatima2003)
-[![f=React](https://img.shields.io/badge/★★★☆☆-FFA9D4?style=for-the-badge)](https://github.com/fatima2003)
+[![f=React](https://img.shields.io/badge/★★★-FFA9D4?style=for-the-badge)](https://github.com/fatima2003)
 
 ### Languages
 [![f=Dart](https://img.shields.io/badge/dart-FF69B4?style=for-the-badge&logo=dart)](https://github.com/fatima2003)
-[![f=Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python)](https://github.com/fatima2003)
-[![f=Go](https://img.shields.io/badge/go-FFA9D4?style=for-the-badge&logo=go)](https://github.com/fatima2003)
+[![f=Go](https://img.shields.io/badge/go-FF69B4?style=for-the-badge&logo=go)](https://github.com/fatima2003)
+[![f=Zsh](https://img.shields.io/badge/zsh-FFA9D4?style=for-the-badge&logo=zsh)](https://github.com/fatima2003)
+[![f=Python](https://img.shields.io/badge/python-FFA9D4?style=for-the-badge&logo=python)](https://github.com/fatima2003)
 
 ### Frameworks
 [![f=Flutter](https://img.shields.io/badge/flutter-FF69B4?style=for-the-badge&logo=flutter)](https://github.com/fatima2003)
