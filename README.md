@@ -1,10 +1,10 @@
 # ```  Hello World  ```
 
-I am Fatima and Welcome to my World :) 
+#### I am Fatima and Welcome to my World :) 
 
-⋆❀° I love to program things in my spare time and will be updating this page with my creations. °❀⋆
- 
- ༘˚⋆𐙚｡ I have graduated CompSci(Cyber Security) with a Distinction and my interests include Security ofc lol, App development using Flutter and design (I love clean and contrarily colorful and maximalist works) ᝰ.ᐟ
+_⋆❀° I love to program things in my spare time and will be updating this page with my creations. °❀⋆_
+
+ ༘˚⋆𐙚｡ I have graduated CompSci(Cyber Security) with a Distinction and my interests include Security ofc lol, App development using Flutter and Design (I love clean and contrarily colorful and maximalist works) ᝰ.ᐟ
 
 ###### Confidence Key
 [![f=Flutter](https://img.shields.io/badge/★★★★★-FF69B4?style=for-the-badge)](https://github.com/fatima2003)
