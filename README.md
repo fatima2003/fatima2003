@@ -9,17 +9,23 @@ I am Fatima and Welcome to my World :)
  
  $${ \color{Rhodamine} App \space Developement \space (using \space Flutter) \space and \space design \space (I \space love \space clean \space and \space contrarily \space colorful \space and \space maximalist \space works). \color{lightblue}ᝰ.ᐟ }$$
 
-
 ###### Confidence Key
 [![f=Flutter](https://img.shields.io/badge/★★★★★-FF69B4?style=for-the-badge)](https://github.com/fatima2003)
 [![f=React](https://img.shields.io/badge/★★★-FFA9D4?style=for-the-badge)](https://github.com/fatima2003)
 
 ### Languages
-[![f=Dart](https://img.shields.io/badge/dart-FF69B4?style=for-the-badge&logo=dart)](https://github.com/fatima2003)
 [![f=Go](https://img.shields.io/badge/go-FF69B4?style=for-the-badge&logo=go)](https://github.com/fatima2003)
+[![f=Dart](https://img.shields.io/badge/dart-FF69B4?style=for-the-badge&logo=dart)](https://github.com/fatima2003)
 [![f=Cel](https://img.shields.io/badge/cel-FF69B4?style=for-the-badge&logo=cel)](https://github.com/fatima2003)
 [![f=Zsh](https://img.shields.io/badge/zsh-FFA9D4?style=for-the-badge&logo=zsh)](https://github.com/fatima2003)
 [![f=Python](https://img.shields.io/badge/python-FFA9D4?style=for-the-badge&logo=python)](https://github.com/fatima2003)
+
+### Cyber Tools
+[![f=Vmware_fusion](https://img.shields.io/badge/Vmware_fusion-FF69B4?style=for-the-badge&logo=Vmware)](https://github.com/fatima2003)
+[![f=JohntheRipper](https://img.shields.io/badge/john_the_ripper-FF69B4?style=for-the-badge&logo=hackaday)](https://github.com/fatima2003)
+[![f=nmap](https://img.shields.io/badge/nmap-FFA9D4?style=for-the-badge&logo=nmap)](https://github.com/fatima2003)
+[![f=Wireshark](https://img.shields.io/badge/wireshark-FFA9D4?style=for-the-badge&logo=wireshark)](https://github.com/fatima2003)
+[![f=Docker](https://img.shields.io/badge/Docker-FFA9D4?style=for-the-badge&logo=Docker)](https://github.com/fatima2003)
 
 ### Frameworks
 [![f=Flutter](https://img.shields.io/badge/flutter-FF69B4?style=for-the-badge&logo=flutter)](https://github.com/fatima2003)
