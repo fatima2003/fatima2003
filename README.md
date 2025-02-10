@@ -6,7 +6,7 @@ _⋆❀° I love to program things in my spare time and will be updating this pa
 
  ༘˚⋆𐙚｡ I have graduated CompSci(Cyber Security) with a Distinction and my interests include Security ofc lol, App development using Flutter and Design (I love clean and contrarily colorful and maximalist works) ᝰ.ᐟ
 
- _⋆❀° I just started a blog!! YAY [View Blog](https://fatties-blog.vercel.app) °❀⋆_
+ _⋆❀° I just started a blog!! [View Blog](https://fatties-blog.vercel.app) °❀⋆_
 
 
 ###### Confidence Key
