@@ -23,6 +23,7 @@ _⋆❀° I love to program things in my spare time and will be updating this pa
 ### Cyber Tools
 [![f=Vmware_fusion](https://img.shields.io/badge/Vmware_fusion-FF69B4?style=for-the-badge&logo=Vmware)](https://github.com/fatima2003)
 [![f=JohntheRipper](https://img.shields.io/badge/john_the_ripper-FF69B4?style=for-the-badge&logo=hackaday)](https://github.com/fatima2003)
+[![f=Zizmor](https://img.shields.io/badge/Zizmor-FFA9D4?style=for-the-badge&logo=Zizmor)](https://github.com/fatima2003)
 [![f=nmap](https://img.shields.io/badge/nmap-FFA9D4?style=for-the-badge&logo=nmap)](https://github.com/fatima2003)
 [![f=Wireshark](https://img.shields.io/badge/wireshark-FFA9D4?style=for-the-badge&logo=wireshark)](https://github.com/fatima2003)
 [![f=Docker](https://img.shields.io/badge/Docker-FFA9D4?style=for-the-badge&logo=Docker)](https://github.com/fatima2003)
