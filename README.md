@@ -2,7 +2,7 @@
 
 #### I am Fatima and Welcome to my World :) 
 
-_⋆❀° I love to program things in my spare time and will be updating this page with my creations. °❀⋆_
+_⋆❀° I love programming and will be updating this page with my creations. °❀⋆_
 
  ༘˚⋆𐙚｡ I have graduated CompSci(Cyber Security) with a Distinction and my interests include Security ofc lol, App development using Flutter and Design (I love clean and contrarily colorful and maximalist works) ᝰ.ᐟ
 
