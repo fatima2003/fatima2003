@@ -48,6 +48,9 @@ _⋆❀° I love programming and will be updating this page with my creations. �
 [![f=Figma](https://img.shields.io/badge/figma-FFA9D4?style=for-the-badge&logo=figma)](https://github.com/fatima2003)
 [![f=Wix](https://img.shields.io/badge/wix-FFA9D4?style=for-the-badge&logo=wix)](https://github.com/fatima2003)
 
+### Other
+[![f=latex](https://img.shields.io/badge/latex-FF69B4?style=for-the-badge&logo=latex)](https://github.com/fatima2003)
+
 <details>
   <summary>🌟 Some of My Works</summary>
   <p align="center">
