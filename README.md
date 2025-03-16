@@ -50,6 +50,7 @@ _⋆❀° I love programming and will be updating this page with my creations. �
 
 ### Other
 [![f=latex](https://img.shields.io/badge/latex-FF69B4?style=for-the-badge&logo=latex)](https://github.com/fatima2003)
+[![f=matplotlib](https://img.shields.io/badge/matplotlib-FFA9D4?style=for-the-badge&logo=python)](https://github.com/fatima2003)
 
 <details>
   <summary>🌟 Some of My Works</summary>
