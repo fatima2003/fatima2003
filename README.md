@@ -97,11 +97,5 @@ _⋆❀° I love programming and will be updating this page with my creations. �
   [View Portfolio](https://fatties-portfolio.vercel.app)
   ______________________________
 
-  #### 🎨 Waqt Logo: Designed in Figma
-  *A logo design created using Figma.*
-  
-  [View on Figma](https://www.figma.com/proto/jS63p8uYMBpUvObFxJu05b/Logo-Design?node-id=305-45&t=I9uQunrXf5tUoQyF-1)
-
-  ______________________________
   </p>
 </details>
