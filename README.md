@@ -6,9 +6,6 @@ _⋆❀° I love programming and will be updating this page with my creations. �
 
  ༘˚⋆𐙚｡ I have graduated CompSci(Cyber Security) with a Distinction and my interests include Security ofc lol, App development using Flutter and Design (I love clean and contrarily colorful and maximalist works) ᝰ.ᐟ
 
- _⋆❀° I just started a blog!! [View Blog](https://fatties-blog.vercel.app) °❀⋆_
-
-
 ###### Confidence Key
 [![f=Flutter](https://img.shields.io/badge/★★★★★-FF69B4?style=for-the-badge)](https://github.com/fatima2003)
 [![f=React](https://img.shields.io/badge/★★★-FFA9D4?style=for-the-badge)](https://github.com/fatima2003)
