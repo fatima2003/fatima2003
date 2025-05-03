@@ -11,8 +11,8 @@ _⋆❀° I love programming and will be updating this page with my creations. �
 [![f=React](https://img.shields.io/badge/★★★-FFA9D4?style=for-the-badge)](https://github.com/fatima2003)
 
 ### Languages
-[![f=Dart](https://img.shields.io/badge/dart-FF69B4?style=for-the-badge&logo=dart)](https://github.com/fatima2003)
 [![f=Go](https://img.shields.io/badge/go-FF69B4?style=for-the-badge&logo=go)](https://github.com/fatima2003)
+[![f=Dart](https://img.shields.io/badge/dart-FF69B4?style=for-the-badge&logo=dart)](https://github.com/fatima2003)
 [![f=Cel](https://img.shields.io/badge/cel-FF69B4?style=for-the-badge&logo=cel)](https://github.com/fatima2003)
 [![f=Zsh](https://img.shields.io/badge/zsh-FFA9D4?style=for-the-badge&logo=zsh)](https://github.com/fatima2003)
 [![f=Python](https://img.shields.io/badge/python-FFA9D4?style=for-the-badge&logo=python)](https://github.com/fatima2003)
