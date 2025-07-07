@@ -70,12 +70,7 @@ _⋆❀° I love programming and will be updating this page with my creations. �
   
   [View as Web App](https://masjid2024-79d97.web.app)   
   [View on App Store (for iOS)](https://apps.apple.com/ae/app/salaah-waqt/id6639612429)
-  ______________________________
 
-  #### 🍬 Kreckle Foods: A confectionery wholesaler
-  *E-commerce platform for a confectionery wholesaler.*
-  
-  [Visit Website](https://www.krecklefoods.com)
   ______________________________
   #### 🎨 Draggable: A simple CSS animation tool
   *Create animations by dragging the cursor on the screen.*
