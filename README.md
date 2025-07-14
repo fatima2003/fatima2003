@@ -53,7 +53,7 @@ _⋆❀° I love programming and will be updating this page with my creations. �
   #### 🕌 Waqt: Prayer times for mosques in Harare
   *Displays salaah times for mosques in Harare.* 
 
-  _**CURRENTLY ONLY AVAILABLE IN ZIMBABWE && UAE**_
+  _**APP VERSION CURRENTLY ONLY AVAILABLE IN ZIMBABWE && UAE**_
   
   [View as Web App](https://masjid2024-79d97.web.app)   
   [View on App Store (for iOS)](https://apps.apple.com/ae/app/salaah-waqt/id6639612429)
