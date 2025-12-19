@@ -10,7 +10,7 @@ _⋆❀° I love programming and will be updating this page with my creations. �
 
 #### I completed my mentership under OpenBao via LFX Mentorships :)
 - [My Contributions in OpenBao 👩🏽‍💻](https://github.com/openbao/openbao/issues?q=author%3Afatima2003+)
-- Worked with the Horizontal Scalability working group alongside Philipp, menteeing under Andrii from Adfinis. 
+- Worked with the Horizontal Scalability working group alongside Philipp, menteeing under Andrii from Adfinis: [Handle read request on standby node](https://github.com/openbao/openbao/pull/1674). 
 - Worked on enhancing the PKI (Public Key Infrastructure) endpoint and also implemented [CEL for Certificate Issuance Policies](https://github.com/openbao/openbao/pull/1428) under the mentorship of [Alex Scheel](https://github.com/cipherboy)!
 - I am also an Organization-Level Moderator! :D
 
